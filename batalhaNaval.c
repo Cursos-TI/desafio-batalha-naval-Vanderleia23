@@ -44,8 +44,8 @@ int main() {
     batalhaNaval [5][2] = 3;
     batalhaNaval [6][2] = 3;
 
-    batalhaNaval [5][6] = 3;
-    batalhaNaval [5][7] = 3;
+    batalhaNaval [3][8] = 3;
+    batalhaNaval [4][8] = 3;
     batalhaNaval [5][8] = 3;
 
     batalhaNaval [7][6] = 3;
